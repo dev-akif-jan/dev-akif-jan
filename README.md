@@ -6,8 +6,8 @@
 <h1 align="center">Hi <img src="Hi.gif" width="30px">, I'm Muhammad Akif Arif</h1>
 <h3 align="center">Senior Software Engineer</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/maddy2353/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salman" height="30" width="40" /></a>
- <a href = "mailto: salmanpucit35@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salman" height="30" width="40" /></a>
+ <a href = "mailto: dev.akif.work@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
 
@@ -28,9 +28,10 @@
 ### <u> Languages: </u>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<span><img src="https://img.shields.io/badge/Ruby%20on%20Rails-red?style=for-the-badge&logo=ruby-on-rails" alt="Ruby on Rails" title="HTML5" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby on Rails" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="CSS3 logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -51,8 +52,6 @@
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/figma-563D7C?style=for-the-badge&logo=figma&logoColor=white" alt="Figma logo" title="Figma" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="AngularJS logo" title="AngularJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js logo" title="Vue.js" height="25" /></span>
 
@@ -92,12 +91,17 @@
 <span><img src="https://img.shields.io/badge/Microservices-333333?style=for-the-badge" alt="Microservices" title="Microservices" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/AWS%20Route%2053-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Route 53 logo" title="AWS Route 53" height="25" /></span>
-
+&nbsp;
+<span><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+" alt="HTML logo" title="Django" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+" alt="HTML logo" title="Django" height="25" /></span>
 
 
 ### <u> Mobile App Development Technologies & Tools: </u>
 
-<span><img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic logo" title="Ionic" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Ionic logo" title="Flutter" height="25" /></span>
 &nbsp;
 
 ### <u> Version Control and Tools:</u>
@@ -129,7 +133,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google APIs logo" title="Google APIs" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ClubReady-333333?style=for-the-badge" alt="ClubReady" title="ClubReady" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="Opera" title="ClubReady" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot" title="HubSpot" height="25" /></span>
 &nbsp;
@@ -150,12 +154,13 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim logo" title="Vim" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim logo" title="Neovim" height="25" /></span>
-
 <br>
 
 ### <u> Learning:</u>
 <span><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white
+" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>
 &nbsp;
 <hr>
 
