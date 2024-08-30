@@ -160,7 +160,7 @@
 <span><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white
-" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>
+" alt="Elixer" title="Elixer" height="25" /></span>
 &nbsp;
 <hr>
 
