@@ -31,8 +31,6 @@
 <span><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby on Rails" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="CSS3 logo" title="Python" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
@@ -84,19 +82,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/AWS%20API%20Gateway-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS API Gateway logo" title="AWS API Gateway" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB logo" title="InfluxDB" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/AWS%20Elastic%20Load%20Balancer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Elastic Load Balancer logo" title="AWS Elastic Load Balancer" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Microservices-333333?style=for-the-badge" alt="Microservices" title="Microservices" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/AWS%20Route%2053-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Route 53 logo" title="AWS Route 53" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
-" alt="HTML logo" title="Django" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
-" alt="HTML logo" title="Django" height="25" /></span>
 
 
 ### <u> Mobile App Development Technologies & Tools: </u>
@@ -115,10 +106,6 @@
 <span><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe logo" title="Stripe" height="25" /></span>
 </span>
 &nbsp;
-<span>
-<span><img src="https://img.shields.io/badge/Plaid-4A90E2?style=for-the-badge&logo=plaid&logoColor=white" alt="Plaid logo" title="Plaid" height="25" /></span>
-</span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook logo" title="Facebook API" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch logo" title="Twitch" height="25" /></span>
@@ -132,10 +119,6 @@
 <span><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger logo" title="Swagger" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google APIs logo" title="Google APIs" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="Opera" title="ClubReady" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot" title="HubSpot" height="25" /></span>
 &nbsp;
 <span><span><img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio logo" title="Twilio" height="25" /></span>
 
@@ -152,15 +135,18 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim logo" title="Vim" height="25" /></span>
-&nbsp;
 <br>
 
 ### <u> Learning:</u>
 <span><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixer" title="Elixer" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixer" title="Elixir" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="CSS3 logo" title="Python" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="HTML logo" title="Django" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="HTML logo" title="Flask" height="25" /></span>
 <hr>
 
 #### <u> A Random Joke for You:</u>
